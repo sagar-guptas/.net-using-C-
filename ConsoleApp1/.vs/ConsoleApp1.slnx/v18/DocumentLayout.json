@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\.net\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|d:\\project\\.net\\consoleapp1\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F034CE-4511-48DB-86A0-4D643326B17D}|ConsoleApp1.csproj|solutionrelative:question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question3.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question3.cs",
+              "RelativeDocumentMoniker": "Question3.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question3.cs*",
+              "RelativeToolTip": "Question3.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:54:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question4.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question4.cs",
+              "RelativeDocumentMoniker": "Question4.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question4.cs*",
+              "RelativeToolTip": "Question4.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:57:35.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question5.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question5.cs",
+              "RelativeDocumentMoniker": "Question5.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question5.cs*",
+              "RelativeToolTip": "Question5.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:04:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question6.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question6.cs",
+              "RelativeDocumentMoniker": "Question6.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question6.cs*",
+              "RelativeToolTip": "Question6.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:06:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question7.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question7.cs",
+              "RelativeDocumentMoniker": "Question7.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question7.cs*",
+              "RelativeToolTip": "Question7.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:09:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question8.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question8.cs",
+              "RelativeDocumentMoniker": "Question8.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question8.cs*",
+              "RelativeToolTip": "Question8.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:10:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question9.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question9.cs",
+              "RelativeDocumentMoniker": "Question9.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question9.cs*",
+              "RelativeToolTip": "Question9.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:11:46.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwFgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T03:24:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Question2.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question2.cs",
+              "RelativeDocumentMoniker": "Question2.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question2.cs*",
+              "RelativeToolTip": "Question2.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:53:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Question10.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question10.cs",
+              "RelativeDocumentMoniker": "Question10.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question10.cs*",
+              "RelativeToolTip": "Question10.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:12:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Question1.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\ConsoleApp1\\Question1.cs",
+              "RelativeDocumentMoniker": "Question1.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\ConsoleApp1\\Question1.cs*",
+              "RelativeToolTip": "Question1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:44:37.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
