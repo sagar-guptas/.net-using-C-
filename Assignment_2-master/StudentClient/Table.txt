@@ -1,0 +1,9 @@
+Final result from another assembly
+
+Member	          Modifier	              Accessible?
+Name	          public				  Accessible
+Age	              private	              Not Accessible
+Department	      protected	              Not Accessible
+CGPA	          internal	              Not Accessible
+College	          protected internal	  Not Accessible
+Address	          private protected	      Not Accessible

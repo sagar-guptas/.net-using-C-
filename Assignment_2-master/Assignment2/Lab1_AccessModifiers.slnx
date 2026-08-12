@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../StudentClient/StudentClient.csproj" />
+  <Project Path="../StudentLibrary/StudentLibrary.csproj" />
+  <Project Path="Lab1_AccessModifiers.csproj" />
+</Solution>
