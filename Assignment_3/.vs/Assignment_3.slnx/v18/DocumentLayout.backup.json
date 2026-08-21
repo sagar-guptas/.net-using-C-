@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Assignment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|d:\\c#\\assignment_3\\a3p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|d:\\c#\\assignment_3\\a3p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|d:\\c#\\assignment_3\\a3p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|d:\\c#\\assignment_3\\a3p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p5_operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p5_operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE5EE79-B68D-4A53-8B05-5F98C00B1F3B}|..\\A3P6\\A3P6.csproj|D:\\C#\\a3p6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|A3P6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE5EE79-B68D-4A53-8B05-5F98C00B1F3B}|..\\A3P6\\A3P6.csproj|D:\\C#\\a3p6\\a3p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p5_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p5_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|D:\\C#\\Assignment_3\\a3p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96435B27-473C-4E08-BEBF-FBC8AEF3C1B8}|Assignment_3.csproj|solutionrelative:a3p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE5EE79-B68D-4A53-8B05-5F98C00B1F3B}|..\\A3P6\\A3P6.csproj|d:\\c#\\a3p6\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A3P10.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P10.cs",
+              "RelativeDocumentMoniker": "A3P10.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P10.cs",
+              "RelativeToolTip": "A3P10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:09:23.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A3P9.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P9.cs",
+              "RelativeDocumentMoniker": "A3P9.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P9.cs",
+              "RelativeToolTip": "A3P9.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:07:37.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A3P8.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P8.cs",
+              "RelativeDocumentMoniker": "A3P8.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P8.cs",
+              "RelativeToolTip": "A3P8.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:06:05.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A3P7.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P7.cs",
+              "RelativeDocumentMoniker": "A3P7.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P7.cs",
+              "RelativeToolTip": "A3P7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:04:51.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "A3P6",
+              "DocumentMoniker": "D:\\C#\\A3P6\\A3P6.csproj",
+              "RelativeDocumentMoniker": "..\\A3P6\\A3P6.csproj",
+              "ToolTip": "D:\\C#\\A3P6\\A3P6.csproj",
+              "RelativeToolTip": "..\\A3P6\\A3P6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-21T03:59:32.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\A3P6\\Student.cs",
+              "RelativeDocumentMoniker": "..\\A3P6\\Student.cs",
+              "ToolTip": "D:\\C#\\A3P6\\Student.cs",
+              "RelativeToolTip": "..\\A3P6\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:49:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "A3P6.cs",
+              "DocumentMoniker": "D:\\C#\\A3P6\\A3P6.cs",
+              "RelativeDocumentMoniker": "..\\A3P6\\A3P6.cs",
+              "ToolTip": "D:\\C#\\A3P6\\A3P6.cs",
+              "RelativeToolTip": "..\\A3P6\\A3P6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:49:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A3P5.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P5.cs",
+              "RelativeDocumentMoniker": "A3P5.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P5.cs",
+              "RelativeToolTip": "A3P5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:45:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A3P5_Operations.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P5_Operations.cs",
+              "RelativeDocumentMoniker": "A3P5_Operations.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P5_Operations.cs",
+              "RelativeToolTip": "A3P5_Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:44:43.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "A3P5_Properties.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P5_Properties.cs",
+              "RelativeDocumentMoniker": "A3P5_Properties.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P5_Properties.cs",
+              "RelativeToolTip": "A3P5_Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:44:20.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "A3P4.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P4.cs",
+              "RelativeDocumentMoniker": "A3P4.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P4.cs",
+              "RelativeToolTip": "A3P4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:42:02.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "A3P3.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P3.cs",
+              "RelativeDocumentMoniker": "A3P3.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P3.cs",
+              "RelativeToolTip": "A3P3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:38:17.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "A3P2.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P2.cs",
+              "RelativeDocumentMoniker": "A3P2.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P2.cs",
+              "RelativeToolTip": "A3P2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:35:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "A3P1.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_3\\A3P1.cs",
+              "RelativeDocumentMoniker": "A3P1.cs",
+              "ToolTip": "D:\\C#\\Assignment_3\\A3P1.cs",
+              "RelativeToolTip": "A3P1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T02:45:17.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
