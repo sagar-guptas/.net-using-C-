@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Assignment_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|d:\\c#\\assignment_4\\read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|d:\\c#\\assignment_4\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|d:\\c#\\assignment_4\\a4p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:a4p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|D:\\C#\\Assignment_4\\a4p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:a4p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|D:\\C#\\Assignment_4\\a4p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:a4p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|D:\\C#\\Assignment_4\\a4p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:a4p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|D:\\C#\\Assignment_4\\a4p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79D24B3-AC81-4A2E-AA54-2140696EF914}|Assignment_4.csproj|solutionrelative:a4p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\Read.cs",
+              "RelativeDocumentMoniker": "Read.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\Read.cs",
+              "RelativeToolTip": "Read.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:54:34.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\Programm.cs",
+              "RelativeDocumentMoniker": "Programm.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\Programm.cs",
+              "RelativeToolTip": "Programm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:51:02.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A4P5.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\A4P5.cs",
+              "RelativeDocumentMoniker": "A4P5.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\A4P5.cs",
+              "RelativeToolTip": "A4P5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:48:22.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A4P4.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\A4P4.cs",
+              "RelativeDocumentMoniker": "A4P4.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\A4P4.cs",
+              "RelativeToolTip": "A4P4.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:46:37.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A4P3.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\A4P3.cs",
+              "RelativeDocumentMoniker": "A4P3.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\A4P3.cs",
+              "RelativeToolTip": "A4P3.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:44:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A4P2.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\A4P2.cs",
+              "RelativeDocumentMoniker": "A4P2.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\A4P2.cs",
+              "RelativeToolTip": "A4P2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:42:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A4P1.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment_4\\A4P1.cs",
+              "RelativeDocumentMoniker": "A4P1.cs",
+              "ToolTip": "D:\\C#\\Assignment_4\\A4P1.cs",
+              "RelativeToolTip": "A4P1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:34:19.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
