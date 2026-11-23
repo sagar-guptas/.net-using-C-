@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\.net\\Assignment_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|d:\\project\\.net\\assignment_6\\a6p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|D:\\PROJECT\\.net\\Assignment_6\\a6p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F800A9A-9243-4F50-A89B-4B6FA0F01858}|Assignment_6.csproj|solutionrelative:a6p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A6P8.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P8.cs",
+              "RelativeDocumentMoniker": "A6P8.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P8.cs",
+              "RelativeToolTip": "A6P8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:08:54.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A6P11.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P11.cs",
+              "RelativeDocumentMoniker": "A6P11.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P11.cs",
+              "RelativeToolTip": "A6P11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T11:20:01.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A6P7.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P7.cs",
+              "RelativeDocumentMoniker": "A6P7.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P7.cs",
+              "RelativeToolTip": "A6P7.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:07:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A6P6.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P6.cs",
+              "RelativeDocumentMoniker": "A6P6.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P6.cs",
+              "RelativeToolTip": "A6P6.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:06:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "A6P5.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P5.cs",
+              "RelativeDocumentMoniker": "A6P5.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P5.cs",
+              "RelativeToolTip": "A6P5.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:05:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "A6P4.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P4.cs",
+              "RelativeDocumentMoniker": "A6P4.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P4.cs",
+              "RelativeToolTip": "A6P4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:04:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "A6P3.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P3.cs",
+              "RelativeDocumentMoniker": "A6P3.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P3.cs",
+              "RelativeToolTip": "A6P3.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:03:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "A6P2.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P2.cs",
+              "RelativeDocumentMoniker": "A6P2.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P2.cs",
+              "RelativeToolTip": "A6P2.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:02:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A6P1.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P1.cs",
+              "RelativeDocumentMoniker": "A6P1.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P1.cs",
+              "RelativeToolTip": "A6P1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:57:04.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A6P9.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P9.cs",
+              "RelativeDocumentMoniker": "A6P9.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P9.cs",
+              "RelativeToolTip": "A6P9.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:09:30.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A6P10.cs",
+              "DocumentMoniker": "D:\\PROJECT\\.net\\Assignment_6\\A6P10.cs",
+              "RelativeDocumentMoniker": "A6P10.cs",
+              "ToolTip": "D:\\PROJECT\\.net\\Assignment_6\\A6P10.cs",
+              "RelativeToolTip": "A6P10.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T11:15:48.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
